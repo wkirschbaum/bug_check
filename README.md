@@ -1,21 +1,3 @@
 # BugCheck
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `bug_check` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:bug_check, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/bug_check>.
-
+mix test passes in 1.14.0, but not in 1.14.1
